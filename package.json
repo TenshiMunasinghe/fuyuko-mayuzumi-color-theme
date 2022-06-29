@@ -1,0 +1,21 @@
+{
+    "name": "fuyuko-mayuzumi-color-theme",
+    "displayName": " Fuyuko Mayuzumi color theme",
+    "description": "color theme for FuyukoPs",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fuyuko Mayuzumi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fuyuko Mayuzumi-color-theme.json"
+            }
+        ]
+    }
+}
